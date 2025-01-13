@@ -32,4 +32,19 @@ Before running the tests, ensure you have the following installed on your machin
 ```bash
 git clone https://github.com/pankajkulsange/Automation-Carina-Framework.git
 cd Automation-Carina-Framework
+```
+Contribution
+Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with a detailed explanation of your changes.
 
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments
+Selenium WebDriver for browser automation
+Cucumber for BDD testing
+TestNG for test execution and management
+Carina Framework for enhanced automation capabilities
+Maven for project management
+
+
+This `README.md` file provides an overview of the repository, tools, installation instructions, how to run tests, and directory structure. Feel free to customize it further depending on your specific setup or project requirements.
